@@ -1,0 +1,50 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 11 Jun 2019 09:55:52 at http://localhost/sieuthioto/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://localhost/sieuthioto/ -O1 "D:\sieuthioto" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:13:14	Error: 	"Not Found" (404) at link localhost/sieuthioto/wp-content/themes/web3s-sieuthioto/owl.video.play.png (from localhost/sieuthioto/wp-content/themes/web3s-sieuthioto/owl.carousel.min.css)
+10:13:14	Error: 	"Not Found" (404) at link localhost/sieuthioto/wp-content/themes/fonts/glyphicons-halflings-regular.eot (from localhost/sieuthioto/wp-content/themes/web3s-sieuthioto/bootstrap.min.css)
+10:13:14	Error: 	"Not Found" (404) at link localhost/sieuthioto/wp-content/themes/fonts/glyphicons-halflings-regulard41d.eot? (from localhost/sieuthioto/wp-content/themes/web3s-sieuthioto/bootstrap.min.css)
+10:13:14	Error: 	"Not Found" (404) at link localhost/sieuthioto/wp-content/themes/fonts/glyphicons-halflings-regular.svg (from localhost/sieuthioto/wp-content/themes/web3s-sieuthioto/bootstrap.min.css)
+10:13:14	Error: 	"Not Found" (404) at link localhost/sieuthioto/wp-content/themes/web3s-sieuthioto/images/bx_loader.gif (from localhost/sieuthioto/wp-content/themes/web3s-sieuthioto/jquery.bxslider.css)
+10:13:14	Error: 	"Not Found" (404) at link localhost/sieuthioto/wp-content/themes/web3s-sieuthioto/images/controls.png (from localhost/sieuthioto/wp-content/themes/web3s-sieuthioto/jquery.bxslider.css)
+10:13:15	Error: 	"Not Found" (404) at link localhost/sieuthioto/ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/ (from https://connect.facebook.net/vi_VN/sdk/xfbml.customerchat.js)
+10:13:15	Error: 	"Forbidden" (403) at link localhost/sieuthioto/^([^:/? (from https://connect.facebook.net/vi_VN/sdk/xfbml.customerchat.js)
+10:13:15	Error: 	"Not Found" (404) at link localhost/sieuthioto/GET (from https://connect.facebook.net/vi_VN/sdk/xfbml.customerchat.js)
+10:13:15	Error: 	"Not Found" (404) at link localhost/sieuthioto/Trident/ (from https://connect.facebook.net/vi_VN/sdk/xfbml.customerchat.js)
+10:13:25	Error: 	"Not Found" (404) at link localhost/sieuthioto/lien-he/index.html (from localhost/sieuthioto/lien-he/)
+10:13:25	Warning: 	Retry after error -4 (No data (connection closed)) at link https://sieuthitoyota.net/images/Upload/images/so-sanh-toyota-rush-2019-va-mitsubishi-xpander-2019-ve-noi-ngoai-that-2.jpg (from localhost/sieuthioto/so-sanh-toyota-rush-2019-va-mitsubishi-xpander-2019-ve-noi-ngoai-that/)
+10:13:25	Warning: 	Retry after error -4 (No data (connection closed)) at link https://sieuthitoyota.net/images/Upload/images/so-sanh-toyota-rush-2019-va-mitsubishi-xpander-2019-ve-noi-ngoai-that-4.jpg (from localhost/sieuthioto/so-sanh-toyota-rush-2019-va-mitsubishi-xpander-2019-ve-noi-ngoai-that/)
+10:13:25	Warning: 	Retry after error -4 (No data (connection closed)) at link https://sieuthitoyota.net/images/Upload/images/toyota-camry-2019-se-duoc-nhap-khau-nguyen-chiec-tu-thai-lan-1.jpg (from localhost/sieuthioto/toyota-camry-2019-se-duoc-nhap-khau-nguyen-chiec-tu-thai-lan/)
+10:13:25	Warning: 	Retry after error -4 (No data (connection closed)) at link https://sieuthitoyota.net/images/Upload/images/toyota-camry-2019-se-duoc-nhap-khau-nguyen-chiec-tu-thai-lan-5.jpg (from localhost/sieuthioto/toyota-camry-2019-se-duoc-nhap-khau-nguyen-chiec-tu-thai-lan/)
+10:13:28	Warning: 	Retry after error -4 (No data (connection closed)) at link https://sieuthitoyota.net/images/Upload/images/hay-mua-xe-toyota-hilux-2019-truoc-khi-thue-truoc-ba-xe-ban-tai-tang-tu-3-den-4-lan-2.jpg (from localhost/sieuthioto/hay-mua-xe-toyota-hilux-2019-truoc-khi-thue-truoc-ba-xe-ban-tai-tang-tu-3-den-4-lan/)
+10:13:28	Warning: 	Retry after error -4 (No data (connection closed)) at link https://sieuthitoyota.net/images/Upload/images/hay-mua-xe-toyota-hilux-2019-truoc-khi-thue-truoc-ba-xe-ban-tai-tang-tu-3-den-4-lan-4.jpg (from localhost/sieuthioto/hay-mua-xe-toyota-hilux-2019-truoc-khi-thue-truoc-ba-xe-ban-tai-tang-tu-3-den-4-lan/)
+10:13:28	Warning: 	Retry after error -4 (No data (connection closed)) at link https://sieuthitoyota.net/images/Upload/images/nen-chon-xe-toyota-fortuner-2019-nhap-khau-hay-lap-rap-2.jpg (from localhost/sieuthioto/nen-chon-xe-toyota-fortuner-2019-nhap-khau-hay-lap-rap/)
+10:13:28	Warning: 	Retry after error -4 (No data (connection closed)) at link https://sieuthitoyota.net/images/Upload/images/nen-chon-xe-toyota-fortuner-2019-nhap-khau-hay-lap-rap-6.jpg (from localhost/sieuthioto/nen-chon-xe-toyota-fortuner-2019-nhap-khau-hay-lap-rap/)
+10:13:28	Warning: 	Moved Permanently for https://sieuthitoyota.net/images/Upload/images/so-sanh-toyota-rush-2019-va-mitsubishi-xpander-2019-ve-noi-ngoai-that-2.jpg
+10:13:28	Warning: 	File has moved from https://sieuthitoyota.net/images/Upload/images/so-sanh-toyota-rush-2019-va-mitsubishi-xpander-2019-ve-noi-ngoai-that-2.jpg to http://giabanxehoi.com
+10:13:28	Warning: 	Moved Permanently for https://sieuthitoyota.net/images/Upload/images/so-sanh-toyota-rush-2019-va-mitsubishi-xpander-2019-ve-noi-ngoai-that-4.jpg
+10:13:28	Warning: 	File has moved from https://sieuthitoyota.net/images/Upload/images/so-sanh-toyota-rush-2019-va-mitsubishi-xpander-2019-ve-noi-ngoai-that-4.jpg to http://giabanxehoi.com
+10:13:28	Warning: 	Moved Permanently for https://sieuthitoyota.net/images/Upload/images/toyota-camry-2019-se-duoc-nhap-khau-nguyen-chiec-tu-thai-lan-1.jpg
+10:13:28	Warning: 	File has moved from https://sieuthitoyota.net/images/Upload/images/toyota-camry-2019-se-duoc-nhap-khau-nguyen-chiec-tu-thai-lan-1.jpg to http://giabanxehoi.com
+10:13:28	Warning: 	Moved Permanently for https://sieuthitoyota.net/images/Upload/images/toyota-camry-2019-se-duoc-nhap-khau-nguyen-chiec-tu-thai-lan-5.jpg
+10:13:28	Warning: 	File has moved from https://sieuthitoyota.net/images/Upload/images/toyota-camry-2019-se-duoc-nhap-khau-nguyen-chiec-tu-thai-lan-5.jpg to http://giabanxehoi.com
+10:13:28	Warning: 	Retry after error -4 (No data (connection closed)) at link https://sieuthitoyota.net/images/Upload/images/hay-mua-xe-toyota-hilux-2019-truoc-khi-thue-truoc-ba-xe-ban-tai-tang-tu-3-den-4-lan-2.jpg (from localhost/sieuthioto/hay-mua-xe-toyota-hilux-2019-truoc-khi-thue-truoc-ba-xe-ban-tai-tang-tu-3-den-4-lan/)
+10:13:28	Warning: 	Retry after error -4 (No data (connection closed)) at link https://sieuthitoyota.net/images/Upload/images/hay-mua-xe-toyota-hilux-2019-truoc-khi-thue-truoc-ba-xe-ban-tai-tang-tu-3-den-4-lan-4.jpg (from localhost/sieuthioto/hay-mua-xe-toyota-hilux-2019-truoc-khi-thue-truoc-ba-xe-ban-tai-tang-tu-3-den-4-lan/)
+10:13:28	Warning: 	Retry after error -4 (No data (connection closed)) at link https://sieuthitoyota.net/images/Upload/images/nen-chon-xe-toyota-fortuner-2019-nhap-khau-hay-lap-rap-2.jpg (from localhost/sieuthioto/nen-chon-xe-toyota-fortuner-2019-nhap-khau-hay-lap-rap/)
+10:13:28	Warning: 	Retry after error -4 (No data (connection closed)) at link https://sieuthitoyota.net/images/Upload/images/nen-chon-xe-toyota-fortuner-2019-nhap-khau-hay-lap-rap-6.jpg (from localhost/sieuthioto/nen-chon-xe-toyota-fortuner-2019-nhap-khau-hay-lap-rap/)
+10:13:30	Warning: 	Moved Permanently for https://sieuthitoyota.net/images/Upload/images/hay-mua-xe-toyota-hilux-2019-truoc-khi-thue-truoc-ba-xe-ban-tai-tang-tu-3-den-4-lan-2.jpg
+10:13:30	Warning: 	File has moved from https://sieuthitoyota.net/images/Upload/images/hay-mua-xe-toyota-hilux-2019-truoc-khi-thue-truoc-ba-xe-ban-tai-tang-tu-3-den-4-lan-2.jpg to http://giabanxehoi.com
+10:13:30	Warning: 	Moved Permanently for https://sieuthitoyota.net/images/Upload/images/hay-mua-xe-toyota-hilux-2019-truoc-khi-thue-truoc-ba-xe-ban-tai-tang-tu-3-den-4-lan-4.jpg
+10:13:30	Warning: 	File has moved from https://sieuthitoyota.net/images/Upload/images/hay-mua-xe-toyota-hilux-2019-truoc-khi-thue-truoc-ba-xe-ban-tai-tang-tu-3-den-4-lan-4.jpg to http://giabanxehoi.com
+10:13:30	Warning: 	Moved Permanently for https://sieuthitoyota.net/images/Upload/images/nen-chon-xe-toyota-fortuner-2019-nhap-khau-hay-lap-rap-2.jpg
+10:13:30	Warning: 	File has moved from https://sieuthitoyota.net/images/Upload/images/nen-chon-xe-toyota-fortuner-2019-nhap-khau-hay-lap-rap-2.jpg to http://giabanxehoi.com
+10:13:30	Warning: 	Moved Permanently for https://sieuthitoyota.net/images/Upload/images/nen-chon-xe-toyota-fortuner-2019-nhap-khau-hay-lap-rap-6.jpg
+10:13:30	Warning: 	File has moved from https://sieuthitoyota.net/images/Upload/images/nen-chon-xe-toyota-fortuner-2019-nhap-khau-hay-lap-rap-6.jpg to http://giabanxehoi.com
+
+HTTrack Website Copier/3.49-2 mirror complete in 17 minutes 38 seconds : 179 links scanned, 147 files written (26654810 bytes overall) [26546616 bytes received at 25091 bytes/sec], 11032678 bytes transferred using HTTP compression in 31 files, ratio 98%, 1.6 requests per connection
+(11 errors, 28 warnings, 0 messages)
